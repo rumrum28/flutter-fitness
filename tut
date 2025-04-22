@@ -1,0 +1,9 @@
+
+#lunch emulator
+flutter emulators --launch my_avd
+
+#run everytime there is a change in settings or config
+flutter pub get
+
+#installing a depency sample
+flutter pub add flutter_svg
